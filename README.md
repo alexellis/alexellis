@@ -1,4 +1,6 @@
-### Hi there 👋
+<a href="https://github.com/sponsors/alexellis/"><img src="https://pbs.twimg.com/profile_banners/706910608663453698/1593522050/1500x500"></a>
+
+> Subscribe today to receive weekly emails from me with updates on all my OSS projects and on Kubernetes, Raspberry Pi, Docker, and how to get the most out of Open Source.
 
 <!--
 **alexellis/alexellis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
