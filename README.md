@@ -2,7 +2,7 @@
 
 > Read 🤓 [my story about creating independent Open Source on GitHub's ReadME project](https://github.com/readme/alex-ellis)
 
-* 📈 [Let's work together?](https://www.alexellis.io/)
+* ⭐️ [Sponsor me](https://github.com/sponsors/alexellis)
 * 👕 [Buy openfaas/inlets/k3sup/arkade merchandise](https://store.openfaas.com/collections)
 
-⭐️ [Sponsor me](https://github.com/sponsors/alexellis)
+📈 [Let's work together](https://www.alexellis.io/)
