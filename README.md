@@ -1,4 +1,4 @@
-![Sponsors Image](https://user-images.githubusercontent.com/6358735/92244498-e914be80-eeba-11ea-8ecf-136afe5f6ed1.png)
+[![Sponsors Image](https://user-images.githubusercontent.com/6358735/92244498-e914be80-eeba-11ea-8ecf-136afe5f6ed1.png)](https://github.com/readme/alex-ellis)
 
 > Read 🤓 [my story about creating independent Open Source on GitHub's ReadME project](https://github.com/readme/alex-ellis)
 
