@@ -2,6 +2,7 @@
 
 * 👕 [Buy merchandise](https://store.openfaas.com/collections) for openfaas/inlets/k3sup/arkade
 * ⭐️ [Become a GitHub Sponsor](https://github.com/sponsors/alexellis) - follow my journey and get weekly updates
+* 🏝️ [Read my Insiders' Updates in the Treasure Trove](https://faasd.exit.openfaas.pro/function/trove/)
 
 Blog posts you may like:
 
