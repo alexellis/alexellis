@@ -1,7 +1,7 @@
-[Read about my journey creating independent Open Source on GitHub's ReadME project](https://github.com/readme/alex-ellis)
+I create independent Open Source tools - [read about my journey in GitHub's ReadME project](https://github.com/readme/alex-ellis)
 
-* 👕 [Buy merchandise](https://store.openfaas.com/collections) for openfaas/inlets/k3sup/arkade
 * ⭐️ [Become a GitHub Sponsor](https://github.com/sponsors/alexellis) - follow my journey and get weekly updates
+* 👕 [Buy merchandise](https://store.openfaas.com/collections) for openfaas/inlets/k3sup/arkade
 * 🏝️ [Read my Insiders' Updates in the Treasure Trove](https://faasd.exit.openfaas.pro/function/trove/)
 
 Blog posts you may like:
