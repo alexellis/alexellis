@@ -14,17 +14,16 @@ body {
 
 div .item {
   display: inline-block;
+  min-height: 130px;
+
 }
 
 .flex-c {
   border-radius: 15px;
   padding: 10px 10px 10px 10px;
-  display: flex
   margin-left: 16px!important;
   background-color: 	#F8F8F8;
-  justify-content: flex-start;
-  flex-direction: column;
-  align-items:stretch;
+  vertical-align: top;
 }
 
 h4 {
@@ -67,10 +66,10 @@ h6 {
  Do you use this tool?
  </h4>
 <div class="flex-c">
-  <div class="item">
+  <div class="item" style="float: left;"> 
     <img class="avatar avatar-u" src="https://avatars2.githubusercontent.com/u/6358735?s=160&amp;v=4" width="120" height="120" alt="@alexellis">
   </div>
-  <div class="item" style="align-self: flex-start">
+  <div class="item"> 
     <h5>Alex Ellis maintains this software</h5>
     <h6>Sponsor the project today, and keep the contributions flowing.</h6>
   </div>
