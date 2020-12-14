@@ -6,10 +6,11 @@ I create independent Open Source tools - [read about my journey in GitHub's Read
 
 Blog posts you may like:
 
-* [Preparing for the Docker Hub Rate Limits](https://inlets.dev/blog/2020/10/29/preparing-docker-hub-rate-limits.html)
-* [Build and deploy OpenFaaS functions with GitHub Actions](https://www.openfaas.com/blog/openfaas-functions-with-github-actions/)
-* [Expose your private Grafana dashboards with TLS](https://blog.alexellis.io/expose-grafana-dashboards/)
+* [Get kubectl access to your private cluster from anywhere](https://blog.alexellis.io/get-private-kubectl-access-anywhere/)
+* [Connect your on-premises databases to Kubernetes in the cloud](https://inlets.dev/blog/2020/11/06/hybrid-cloud-with-inlets.html)
+* [Serverless Node.js that you can run anywhere](https://www.openfaas.com/blog/serverless-nodejs/)
 
 Your project deserves more eyes on it:
 
 📈 [Let's start working together?](https://www.alexellis.io/)
+👔 **Discounted**: [1:1 coaching for individuals - Go, K8s or OSS](https://calendly.com/alexellis/1-1-discounted-coaching)
