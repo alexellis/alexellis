@@ -12,6 +12,5 @@ Blog posts you may like:
 
 Your project deserves more eyes on it:
 
-📈 [Let's start working together?](https://www.alexellis.io/)
-
-👔 **Discounted**: [1:1 coaching for individuals - Go, K8s or OSS](https://calendly.com/alexellis/1-1-discounted-coaching)
+* 📈 [Let's start working together?](https://www.alexellis.io/)
+* 👔 [1:1 coaching for individuals - Go, K8s or OSS](https://calendly.com/alexellis/1-1-discounted-coaching)
