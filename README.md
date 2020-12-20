@@ -6,11 +6,11 @@ I create independent Open Source tools - [read about my journey in GitHub's Read
 
 Blog posts you may like:
 
-* [Get kubectl access to your private cluster from anywhere](https://blog.alexellis.io/get-private-kubectl-access-anywhere/)
+* [How to monitor multi-cloud Kubernetes with Prometheus and Grafana](https://inlets.dev/blog/2020/12/15/multi-cluster-monitoring.html)
 * [Connect your on-premises databases to Kubernetes in the cloud](https://inlets.dev/blog/2020/11/06/hybrid-cloud-with-inlets.html)
 * [Serverless Node.js that you can run anywhere](https://www.openfaas.com/blog/serverless-nodejs/)
 
 Your project deserves more eyes on it:
 
 * 📈 [Let's start working together?](https://www.alexellis.io/)
-* 👔 [1:1 coaching for individuals - Go, K8s or OSS](https://calendly.com/alexellis/1-1-discounted-coaching)
+* 👔 [1:1 coaching for developers on Go, K8s & OSS](https://calendly.com/alexellis/1-1-discounted-coaching)
