@@ -1,3 +1,9 @@
+## Enjoy your holidays
+
+🎅 Unless you're a customer of OpenFaaS Ltd, I'll see you in the New Year, otherwise, you know how to reach me. 🎅 
+
+## Connect with me
+
 I create independent Open Source tools - [read about my journey in GitHub's ReadME project](https://github.com/readme/alex-ellis)
 
 * ⭐️ [Become a GitHub Sponsor](https://github.com/sponsors/alexellis) - follow my journey and get weekly updates
