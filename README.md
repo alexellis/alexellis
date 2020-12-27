@@ -6,7 +6,7 @@
 
 Topics include use-cases, deployment options, Grafana dashboards, customising timeouts, configuring private registries and much more.
 
-![Dashboard example](https://pbs.twimg.com/media/EqRGzAtXMAEG8QV?format=jpg&name=thumb)
+<img alt="faasd dashboard" src="https://pbs.twimg.com/media/EqRGzAtXMAEG8QV?format=jpg&name=small" width="255px" height="170px">
 
 Become a sponsor for [@openfaas](https://github.com/sponsors/alexellis) or join my [Treasure Trove Tier](https://faasd.exit.openfaas.pro/function/trove/login/?r=) to be the first to get my new eBook on [faasd](https://github.com/openfaas/faasd) in the New Year.
 
