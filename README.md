@@ -2,6 +2,14 @@
 
 🎅 Unless you're a customer of OpenFaaS Ltd, I'll see you in the New Year, otherwise, you know how to reach me. 🎅 
 
+## faasd handbook - everything you need to know
+
+Topics include use-cases, deployment options, Grafana dashboards, customising timeouts, configuring private registries and much more.
+
+![Dashboard example](https://pbs.twimg.com/media/EqRGzAtXMAEG8QV?format=jpg&name=thumb)
+
+Become a sponsor for [@openfaas](https://github.com/sponsors/alexellis) or join my [Treasure Trove Tier](https://faasd.exit.openfaas.pro/function/trove/login/?r=) to be the first to get my new eBook on [faasd](https://github.com/openfaas/faasd) in the New Year.
+
 ## Connect with me
 
 I create independent Open Source tools - [read about my journey in GitHub's ReadME project](https://github.com/readme/alex-ellis)
