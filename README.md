@@ -6,7 +6,7 @@
 ## Follow my journey and support my work
 
 * ⭐️ [Become an Insider and GitHub Sponsor](https://github.com/sponsors/alexellis) - follow my journey and get weekly updates
-* 👕 [Buy merchandise](https://store.openfaas.com/collections) for openfaas/inlets/k3sup/arkade
+* 👕 [Buy merchandise](https://store.openfaas.com/) for openfaas/inlets/k3sup/arkade
 
 ## Your product deserves more eyes on it
 
