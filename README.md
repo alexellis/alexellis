@@ -6,6 +6,7 @@
 ## Follow my journey and support my work
 
 * ⭐️ [Become an Insider and GitHub Sponsor](https://github.com/sponsors/alexellis) - follow my journey and get weekly updates
+* 💻 [Take my K3s and Raspberry Pi netbooting workshop (from The Treasure Trove)](https://faasd.exit.openfaas.pro/function/trove)
 * 👕 [Buy merchandise](https://store.openfaas.com/) for openfaas/inlets/k3sup/arkade
 
 ## Your product deserves more eyes on it
