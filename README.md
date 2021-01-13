@@ -11,7 +11,9 @@
 
 ## Your product deserves more eyes on it
 
-* 📈 [Let's start working on that together?](https://www.alexellis.io/)
+Whether you're feeling overstretched, stuck, or planning go to market - I can probably help you reach more developers.
+
+* 📈 [Let's start working on that together?](https://openfaas.com/support/)
 
 ## Time to level up your skills?
 
