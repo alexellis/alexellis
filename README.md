@@ -7,7 +7,7 @@
 
 > Within a few minutes you'll be deploying your own endpoints with TLS enabled. Just write a few lines of code and deploy from your laptop or your favourite CI/CD solution. Best of all, you can run it on a 5USD VM or even a Raspberry Pi.
 
-* [Find out more on Gumroad](https://gumroad.com/l/serverless-for-everyone-else)
+* [Get your own copy on Gumroad](https://gumroad.com/l/serverless-for-everyone-else)
 
 ## Follow my journey and support my work
 
