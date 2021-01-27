@@ -22,12 +22,8 @@ Wanting to learn what can be done? Start here. Already a faasd user? This is the
 * 💻 [Take my K3s and Raspberry Pi netbooting workshop (from The Treasure Trove)](https://faasd.exit.openfaas.pro/function/trove)
 * 👕 [Buy merchandise](https://store.openfaas.com/) for openfaas/inlets/k3sup/arkade
 
-## Your product deserves more eyes on it
+## Every good player deserves a coach
 
-Whether you're feeling overstretched, stuck, or planning go to market - I can probably help you reach more developers.
+Coaching and mentoring isn't about telling you what to do, you know that already. It's not about teaching you things you can learn on your own. It's about asking you the right questions, making suggestions and keeping you accountable so that you can grow and reach your goals.
 
-* 📈 [Let's start working on that together?](https://openfaas.com/consulting/)
-
-## Time to level up your skills?
-
-* 👔 [Book 1:1 coaching with me on Go, Docker and Kubernetes](https://calendly.com/alexellis/1-1-discounted-coaching)
+* 👔 [Book a 1:1 with me now](https://calendly.com/alexellis/1-1-discounted-coaching)
