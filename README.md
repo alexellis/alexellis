@@ -8,11 +8,9 @@
 <a href="https://gumroad.com/l/serverless-for-everyone-else">
 <img src="https://static-2.gumroad.com/res/gumroad/2028406193591/asset_previews/714aad765f8246463fafb64fcd3be4ea/retina/104810333-b628f280-57eb-11eb-8be9-a2f6c773346b.png" width="40%"></a>
 
-Learn the use-cases for serverless functions through pratical exercises. You'll deploy your own self-hosted faasd instance, write code in Node.js and using examples will start to call HTTP APIs, add npm modules and understand how to monitor your code.
+Learn the use-cases for serverless functions through practical exercises. You'll deploy your own self-hosted functions, write code in Node.js and using examples will start to call HTTP APIs, add npm modules and understand how to monitor your code.
 
-You can run it on your laptop, a Raspberry Pi or DigitalOcean Droplet.
-
-Wanting to learn what can be done? Start here. Already a faasd user? This is the official handbook.
+You can run it on your laptop, a Raspberry Pi or a DigitalOcean Droplet from 5 USD / mo.
 
 * [Check it out on Gumroad](https://gumroad.com/l/serverless-for-everyone-else)
 
