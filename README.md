@@ -16,8 +16,7 @@ Get the eBook on its own, or upgrade to the video workshop. Learn what Serverles
 
 ## Follow my journey and support my work
 
-* ⭐️ [Become an Insider and GitHub Sponsor](https://github.com/sponsors/alexellis) - follow my journey and get weekly updates
+* ⭐️ [Become a GitHub Sponsor](https://github.com/sponsors/alexellis) - follow my journey and get weekly updates
 * 💻 [Take my K3s and Raspberry Pi netbooting workshop (from The Treasure Trove)](https://faasd.exit.openfaas.pro/function/trove)
-* 👕 [Buy merchandise](https://store.openfaas.com/) for openfaas/inlets/k3sup/arkade
 
 Let's work together? [Contact me via email](mailto:contact@openfaas.com)
