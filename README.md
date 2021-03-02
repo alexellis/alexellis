@@ -20,8 +20,4 @@ Get the eBook on its own, or upgrade to the video workshop. Learn what Serverles
 * 💻 [Take my K3s and Raspberry Pi netbooting workshop (from The Treasure Trove)](https://faasd.exit.openfaas.pro/function/trove)
 * 👕 [Buy merchandise](https://store.openfaas.com/) for openfaas/inlets/k3sup/arkade
 
-## Every good player deserves a coach
-
-Coaching and mentoring isn't about telling you what to do, you know that already. It's not about teaching you things you can learn on your own. It's about asking you the right questions, making suggestions and keeping you accountable so that you can grow and reach your goals.
-
-* 👔 [Book a 1:1 with me now](https://calendly.com/alexellis/1-1-discounted-coaching)
+Let's work together? [Contact me via email](mailto:contact@openfaas.com)
