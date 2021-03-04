@@ -14,9 +14,10 @@ Get the eBook on its own, or upgrade to the video workshop. Learn what Serverles
 
 * [Check it out on Gumroad](https://gumroad.com/l/serverless-for-everyone-else)
 
-## Follow my journey and support my work
+## Follow my journey and support my Open Source work
 
-* ⭐️ [Become a GitHub Sponsor](https://github.com/sponsors/alexellis) - follow my journey and get weekly updates
-* 💻 [Take my K3s and Raspberry Pi netbooting workshop (from The Treasure Trove)](https://faasd.exit.openfaas.pro/function/trove)
+As a GitHub Sponsor, you'll receive weekly emails from me on my journey as an independent software developer, creating open source projects used by thousands of users and many companies in production. Check out the tiers to see which suits you best.
+
+* ⭐️ [Become a GitHub Sponsor](https://github.com/sponsors/alexellis)
 
 Let's work together? [Contact me via email](mailto:contact@openfaas.com)
