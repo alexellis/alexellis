@@ -25,6 +25,10 @@ You'll setup your server with NFS and TFTP, configure filesystems for each of th
 
 <a href="https://gumroad.com/l/netbooting-raspberrypi">Hope you enjoy it</a>, and if you're a k3sup.dev user, thank you for the support!
 
+## Buy me a book from my Amazon Wishlist
+
+* [Check out the list](https://www.amazon.co.uk/hz/wishlist/ls/3N6F3YMWH6J7Q?ref_=wl_share)
+
 ## Follow my journey and support my Open Source work
 
 As a GitHub Sponsor, you'll receive weekly emails from me on my journey as an independent software developer, creating open source projects used by thousands of users and many companies in production. Check out the tiers to see which suits you best.
