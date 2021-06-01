@@ -6,7 +6,7 @@
 ## 📚 My eBook - Serverless for Everyone Else
 
 <a href="https://gumroad.com/l/serverless-for-everyone-else">
-<img src="https://static-2.gumroad.com/res/gumroad/2028406193591/asset_previews/741f2ad46ff0a08e16aaf48d21810ba7/retina/social4.png" width="40%"></a>
+<img src="https://www.alexellis.io/serverless.png" width="40%"></a>
 
 Learn the use-cases for serverless functions through practical exercises. You'll deploy your own self-hosted functions, write code in Node.js and using examples will start to call HTTP APIs, add npm modules and understand how to monitor your code with Grafana.
 
@@ -19,7 +19,7 @@ Get the eBook on its own, or upgrade to the video workshop. Learn what Serverles
 I've just launched my netbooting workshop for Raspberry Pi. It was previously only available to sponsors. The new version includes a PDF, scripts and a community Slack channel as part of the package.
 
 <a href="https://gumroad.com/l/netbooting-raspberrypi">
-<img src="https://static-2.gumroad.com/res/gumroad-public-storage/variants/64bucn4zp8wzqdf2dldiud3d89up/3298c3eb001bbed90f1d616da66708480096a0a1b6e81bd4f8a2d6e9b831d301" width="40%"></a>
+<img src="https://www.alexellis.io/netboot.png" width="40%"></a>
 
 You'll setup your server with NFS and TFTP, configure filesystems for each of the RPis, get them booting up, measure the speed, then setup K3s in a HA configuration. From there you can learn what to deploy on the cluster, and find a few jump off points for going further.
 
