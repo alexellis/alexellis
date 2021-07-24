@@ -44,5 +44,5 @@ You'll setup your server with NFS and TFTP, configure filesystems for each of th
 
 As a GitHub Sponsor, you'll receive weekly emails from me on my journey as an independent software developer, creating open source projects used by thousands of users and many companies in production. Check out the tiers and pick whichever suits you.
 
-* 🤓 [Expand my horizons with a book from my Amazon wishlist](https://www.amazon.co.uk/hz/wishlist/genericItemsPage/3N6F3YMWH6J7Q?type=wishlist&filter=unpurchased&sort=priority&viewType=list)
-* ⭐️ [Become a GitHub Sponsor](https://github.com/sponsors/alexellis)
+* 🤓 [Expand my horizons with a book from my Amazon wishlist](https://www.amazon.co.uk/hz/wishlist/ls/3N6F3YMWH6J7Q?ref_=wl_share)
+* ⭐️ [Support my work as a GitHub Sponsor](https://github.com/sponsors/alexellis)
