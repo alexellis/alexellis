@@ -40,9 +40,16 @@ You'll setup your server with NFS and TFTP, configure filesystems for each of th
 
 <a href="https://gumroad.com/l/everyday-golang">Fast track your Go</a>
 
+### Buy a custom made wrist-rest for your mechanical keyboard
+
+![Branded wrist rest](https://pbs.twimg.com/media/E8H7bHAWYAE1xJG?format=jpg&name=small)
+
+* [See pricing and availability here](https://docs.google.com/document/d/1KXXbiBxXPluVAGRTrug-7MN0BvI_Tgm1-NiBoxJnfdw/edit?usp=sharing)
+
 ## Follow my journey and Open Source work
 
 As a GitHub Sponsor, you'll receive weekly emails from me on my journey as an independent software developer, creating open source projects used by thousands of users and many companies in production. Check out the tiers and pick whichever suits you.
 
 * 🤓 [Expand my horizons with a book from my Amazon wishlist](https://www.amazon.co.uk/hz/wishlist/ls/3N6F3YMWH6J7Q?ref_=wl_share)
 * ⭐️ [Support my work as a GitHub Sponsor](https://github.com/sponsors/alexellis)
+* 📫 Need to email me? See the [link on my homepage](https://www.alexellis.io/)
