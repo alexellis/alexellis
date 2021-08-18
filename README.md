@@ -42,9 +42,9 @@ You'll setup your server with NFS and TFTP, configure filesystems for each of th
 
 ### Buy a custom made wrist-rest for your mechanical keyboard
 
-![Branded wrist rest](https://pbs.twimg.com/media/E8H7bHAWYAE1xJG?format=jpg&name=small)
+<a href="https://docs.google.com/document/d/1KXXbiBxXPluVAGRTrug-7MN0BvI_Tgm1-NiBoxJnfdw/view"><img src="https://pbs.twimg.com/media/E8H7bHAWYAE1xJG?format=jpg&name=small" width="40%" alt="Branded wrist rests"></a>
 
-* [See pricing and availability here](https://docs.google.com/document/d/1KXXbiBxXPluVAGRTrug-7MN0BvI_Tgm1-NiBoxJnfdw/edit?usp=sharing)
+* [See pricing and availability here](https://docs.google.com/document/d/1KXXbiBxXPluVAGRTrug-7MN0BvI_Tgm1-NiBoxJnfdw/view)
 
 ## Follow my journey and Open Source work
 
