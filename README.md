@@ -5,6 +5,19 @@
 
 ## My books
 
+### Fast track your Go journey, or turn it up a level with Everday Go
+
+<a href="https://gumroad.com/l/everyday-golang">
+<img src="https://pbs.twimg.com/media/E4fRNrCWEAUR9e7?format=jpg&name=4096x4096" width="40%"></a>
+
+* Learn unit testing and how to isolate dependencies
+* Make lovely CLIs for internal tools and open source projects
+* Monitor your services with Prometheus metrics
+* Ship your code in a container with Docker
+* Learn patterns and pitfalls for using Goroutines
+
+<a href="https://gumroad.com/l/everyday-golang">Fast track your Go</a>
+
 ### 📚 My eBook - Serverless for Everyone Else
 
 <a href="https://gumroad.com/l/serverless-for-everyone-else">
@@ -26,19 +39,6 @@ I've just launched my netbooting workshop for Raspberry Pi. It was previously on
 You'll setup your server with NFS and TFTP, configure filesystems for each of the RPis, get them booting up, measure the speed, then setup K3s in a HA configuration. From there you can learn what to deploy on the cluster, and find a few jump off points for going further.
 
 <a href="https://gumroad.com/l/netbooting-raspberrypi">Build your private cloud now</a>
-
-### Fast track your Go journey, or turn it up a level with Everday Go
-
-<a href="https://gumroad.com/l/everyday-golang">
-<img src="https://pbs.twimg.com/media/E4fRNrCWEAUR9e7?format=jpg&name=4096x4096" width="40%"></a>
-
-* Learn unit testing and how to isolate dependencies
-* Make lovely CLIs for internal tools and open source projects
-* Monitor your services with Prometheus metrics
-* Ship your code in a container with Docker
-* Learn patterns and pitfalls for using Goroutines
-
-<a href="https://gumroad.com/l/everyday-golang">Fast track your Go</a>
 
 ### Buy a custom made wrist-rest for your mechanical keyboard
 
