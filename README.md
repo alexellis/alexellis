@@ -55,6 +55,6 @@ As a GitHub Sponsor, you'll receive weekly emails from me on my journey as an in
 Or find another way to connect or support:
 
 * 🤓 [Expand my horizons with a book from my Amazon wishlist](https://www.amazon.co.uk/hz/wishlist/ls/3N6F3YMWH6J7Q?ref_=wl_share)
-* 🪚 [Buy me a woodworking tool for my hobby](https://www.amazon.co.uk/hz/wishlist/ls/2HWWOL1DKYYJ9?ref_=wl_share)
+* [Buy a woodworking tool for my hobby](https://www.amazon.co.uk/hz/wishlist/ls/2HWWOL1DKYYJ9?ref_=wl_share)
 * 📫 Need to email me? See the [link on my homepage](https://www.alexellis.io/)
 
