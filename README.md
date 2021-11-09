@@ -44,7 +44,9 @@ You'll setup your server with NFS and TFTP, configure filesystems for each of th
 
 <a href="https://docs.google.com/document/d/1KXXbiBxXPluVAGRTrug-7MN0BvI_Tgm1-NiBoxJnfdw/view"><img src="https://pbs.twimg.com/media/E8H7bHAWYAE1xJG?format=jpg&name=small" width="40%" alt="Branded wrist rests"></a>
 
-* [See pricing and availability here](https://docs.google.com/document/d/1KXXbiBxXPluVAGRTrug-7MN0BvI_Tgm1-NiBoxJnfdw/view)
+I'm offering a limited number of hand-made wooden mechanical keyboards and coasters with OpenFaaS branding.
+
+* [Buy an OpenFaaS keyboard rest or set of coasters](https://openfaas.gumroad.com/)
 
 ## Follow my journey and Open Source work
 
