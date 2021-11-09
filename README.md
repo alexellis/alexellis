@@ -42,7 +42,7 @@ You'll setup your server with NFS and TFTP, configure filesystems for each of th
 
 ### Buy a custom made wrist-rest for your mechanical keyboard
 
-<a href="https://docs.google.com/document/d/1KXXbiBxXPluVAGRTrug-7MN0BvI_Tgm1-NiBoxJnfdw/view"><img src="https://pbs.twimg.com/media/E8H7bHAWYAE1xJG?format=jpg&name=small" width="40%" alt="Branded wrist rests"></a>
+<a href="https://openfaas.gumroad.com/"><img src="https://pbs.twimg.com/media/E8H7bHAWYAE1xJG?format=jpg&name=small" width="40%" alt="Branded wrist rests"></a>
 
 I'm offering a limited number of hand-made wooden mechanical keyboards and coasters with OpenFaaS branding.
 
@@ -57,6 +57,5 @@ As a GitHub Sponsor, you'll receive weekly emails from me on my journey as an in
 Or find another way to connect or support:
 
 * 🤓 [Expand my horizons with a book from my Amazon wishlist](https://www.amazon.co.uk/hz/wishlist/ls/3N6F3YMWH6J7Q?ref_=wl_share)
-* [Buy a woodworking tool for my hobby](https://www.amazon.co.uk/hz/wishlist/ls/2HWWOL1DKYYJ9?ref_=wl_share)
 * 📫 Need to email me? See the [link on my homepage](https://www.alexellis.io/)
 
