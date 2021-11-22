@@ -5,7 +5,7 @@
 
 ## My books
 
-### Fast track your Go journey, or turn it up a level with Everday Go
+### Fast track your Go journey
 
 <a href="https://gumroad.com/l/everyday-golang">
 <img src="https://pbs.twimg.com/media/E4fRNrCWEAUR9e7?format=jpg&name=4096x4096" width="40%"></a>
