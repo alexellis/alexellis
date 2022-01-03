@@ -3,6 +3,13 @@
 * [GitHub's ReadME project: Balancing open source sacrifice and success](https://github.com/readme/alex-ellis)
 * [Independent Open Source, with Alex Ellis - Kubernetes Podcast by Google](https://kubernetespodcast.com/episode/116-independent-open-source/)
 
+## Follow my journey and support my Open Source work
+
+As a GitHub Sponsor, you'll receive weekly emails from me on my journey as an independent software developer, creating open source projects used by thousands of users and many companies in production. Check out the tiers and pick whichever suits you.
+
+* ⭐️ [Support my work as a GitHub Sponsor](https://github.com/sponsors/alexellis)
+* 🤓 [Expand my horizons with a book from my Amazon wishlist](https://www.amazon.co.uk/hz/wishlist/ls/3N6F3YMWH6J7Q?ref_=wl_share)
+
 ## My books
 
 ### Fast track your Go journey
@@ -48,14 +55,9 @@ I'm offering a limited number of hand-made wooden mechanical keyboards and coast
 
 * [Buy an OpenFaaS keyboard rest or set of coasters](https://openfaas.gumroad.com/)
 
-## Follow my journey and Open Source work
+## Need to contact me?
 
-As a GitHub Sponsor, you'll receive weekly emails from me on my journey as an independent software developer, creating open source projects used by thousands of users and many companies in production. Check out the tiers and pick whichever suits you.
+* 📫 Need to email me?
+* 💬 Want to book a 1:1 with me?
 
-* ⭐️ [Support my work as a GitHub Sponsor](https://github.com/sponsors/alexellis)
-
-Or find another way to connect or support:
-
-* 🤓 [Expand my horizons with a book from my Amazon wishlist](https://www.amazon.co.uk/hz/wishlist/ls/3N6F3YMWH6J7Q?ref_=wl_share)
-* 📫 Need to email me? See the [link on my homepage](https://www.alexellis.io/)
-
+See [the links on my homepage](https://www.alexellis.io/)
