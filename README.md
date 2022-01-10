@@ -9,6 +9,7 @@ As a GitHub Sponsor, you'll receive weekly emails from me on my journey as an in
 
 * ⭐️ [Support my work as a GitHub Sponsor](https://github.com/sponsors/alexellis)
 * 🤓 [Expand my horizons with a book from my Amazon wishlist](https://www.amazon.co.uk/hz/wishlist/ls/3N6F3YMWH6J7Q?ref_=wl_share)
+* 🪚 [Send me a tool for my woodworking hobby](https://www.amazon.co.uk/hz/wishlist/ls/2HWWOL1DKYYJ9?ref_=wl_share)
 
 ## My books
 
