@@ -1,7 +1,9 @@
 ## I create independent Open Source tools
 
-* [GitHub's ReadME project: Balancing open source sacrifice and success](https://github.com/readme/alex-ellis)
+Hear a bit about my background and why I'm on this journey in these interviews:
+
 * [Independent Open Source, with Alex Ellis - Kubernetes Podcast by Google](https://kubernetespodcast.com/episode/116-independent-open-source/)
+* [Finding a Model for Open-Source with Alex Ellis - Ardan Labs](https://www.youtube.com/watch?v=PwEOt6OrW_Q)
 
 ## Follow my journey and support my Open Source work
 
@@ -9,7 +11,6 @@ As a GitHub Sponsor, you'll receive weekly emails from me on my journey as an in
 
 * ⭐️ [Support my work as a GitHub Sponsor](https://github.com/sponsors/alexellis)
 * 🤓 [Expand my horizons with a book from my Amazon wishlist](https://www.amazon.co.uk/hz/wishlist/ls/3N6F3YMWH6J7Q?ref_=wl_share)
-* 🪚 [Send me a tool for my woodworking hobby](https://www.amazon.co.uk/hz/wishlist/ls/2HWWOL1DKYYJ9?ref_=wl_share)
 
 ## My books
 
