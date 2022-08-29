@@ -2,15 +2,15 @@
 
 Hear a bit about my background and why I'm on this journey:
 
+* [Video: Hear my OpenFaaS story over 60 months from this Gophercon keynote](https://www.youtube.com/watch?v=QzwBmHkP-rQ)
 * [Podcast: Independent Open Source, with Alex Ellis - Kubernetes Podcast by Google](https://kubernetespodcast.com/episode/116-independent-open-source/)
-* [Video: Finding a Model for Open-Source with Alex Ellis - Ardan Labs](https://www.youtube.com/watch?v=PwEOt6OrW_Q)
 
 ## Follow my journey and support my Open Source work
 
-As a GitHub Sponsor, you'll hear from me every week by email - covering my journey building independent software and open source projects. I share about new features, updates, events, tutorials and often share what I've learned from reading around the subject.
+As a GitHub Sponsor, you'll hear from me every week by email - covering my journey building independent software and open source projects. I share about new features, updates, events, tutorials and often share what I've learned from reading and executing every day.
 
-* ⭐️ [Join the club as a GitHub Sponsor](https://github.com/sponsors/alexellis)
-* 🤓 [Give me the skills I need with a book from my Amazon wishlist](https://www.amazon.co.uk/hz/wishlist/ls/3N6F3YMWH6J7Q?ref_=wl_share)
+* ⭐️ [Become a sponsor on GitHub](https://github.com/sponsors/alexellis)
+* 🤓 [Send me a book for inspiration from my Amazon wishlist](https://www.amazon.co.uk/hz/wishlist/ls/3N6F3YMWH6J7Q?ref_=wl_share)
 
 ## My books
 
@@ -51,7 +51,7 @@ You only need a single server and a single Raspberry Pi to experience the magic 
 
 You'll setup your server with NFS and TFTP, configure filesystems for each of the RPis, get them booting up, measure the speed, then setup K3s in a HA configuration. From there you can learn what to deploy on the cluster, and find a few jump off points for going further.
 
-<a href="https://gumroad.com/l/netbooting-raspberrypi">Build your private cloud now</a>
+<a href="https://gumroad.com/l/netbooting-raspberrypi">Build your own Raspberry Pi cloud now</a>
 
 ## Need to contact me?
 
