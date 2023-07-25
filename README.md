@@ -42,16 +42,13 @@ Get the eBook on its own, or upgrade to the video workshop.
 
 * [Learn what functions can do - no Kubernetes required](https://gumroad.com/l/serverless-for-everyone-else)
 
-### Take my Netbooting workshop for the Raspberry Pi
+### Buy a one of a kind wrist rest for your mechanical keyboard
 
-You only need a single server and a single Raspberry Pi to experience the magic of a diskless boot. It still mesmerises me every time I see a machine boot up. You can then remotely manage each host, update them and have faster, more reliable storage. Plus I'll guide you on special settings for running K3s, Docker and faasd.
+I make keyboard wrist rests using hand tools only, and brand them with an openfaas logo. These can be made to custom sizes and come with free stickers.
 
-<a href="https://gumroad.com/l/netbooting-raspberrypi">
-<img src="https://www.alexellis.io/netboot.png" width="40%"></a>
+[![Keyboard wrist rest](https://pbs.twimg.com/media/F0wb6LGXoAA3Cpq?format=jpg&name=small)](https://store.openfaas.com/l/wrist-rest)
 
-You'll setup your server with NFS and TFTP, configure filesystems for each of the RPis, get them booting up, measure the speed, then setup K3s in a HA configuration. From there you can learn what to deploy on the cluster, and find a few jump off points for going further.
-
-<a href="https://gumroad.com/l/netbooting-raspberrypi">Build your own Raspberry Pi cloud now</a>
+[Check them out](https://store.openfaas.com/l/wrist-rest)
 
 ## Need to contact me?
 
