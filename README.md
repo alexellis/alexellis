@@ -1,4 +1,4 @@
-## I create independent Open Source tools
+## I create independent tools for developers
 
 Hear a bit about my background and why I'm on this journey:
 
@@ -38,17 +38,9 @@ My best-selling book!
 
 Learn the use-cases for serverless functions through practical exercises. You'll deploy your own self-hosted functions, write code in Node.js and using examples will start to call HTTP APIs, add npm modules and understand how to monitor your code with Grafana.
 
-Get the eBook on its own, or upgrade to the video workshop.
+Get the eBook on its own, or upgrade to the video workshop for my expert overview.
 
-* [Learn what functions can do - no Kubernetes required](https://gumroad.com/l/serverless-for-everyone-else)
-
-### Buy a one of a kind wrist rest for your mechanical keyboard
-
-I make keyboard wrist rests using hand tools only, and brand them with an openfaas logo. These can be made to custom sizes and come with free stickers.
-
-[![Keyboard wrist rest](https://pbs.twimg.com/media/F0wb6LGXoAA3Cpq?format=jpg&name=small)](https://store.openfaas.com/l/wrist-rest)
-
-[Check them out](https://store.openfaas.com/l/wrist-rest)
+* [Learn how to apply functions for _your own workflow_](https://gumroad.com/l/serverless-for-everyone-else)
 
 ## Need to contact me?
 
