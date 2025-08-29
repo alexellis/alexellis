@@ -34,7 +34,7 @@ My best-selling book!
 ### 📚 My first eBook - Serverless for Everyone Else
 
 <a href="https://gumroad.com/l/serverless-for-everyone-else">
-<img src="https://www.alexellis.io/serverless.png" width="40%"></a>
+<img src="https://blog.alexellis.io/content/images/2025/08/serverless.png" width="40%"></a>
 
 Learn the use-cases for serverless functions through practical exercises. You'll deploy your own self-hosted functions, write code in Node.js and using examples will start to call HTTP APIs, add npm modules and understand how to monitor your code with Grafana.
 
