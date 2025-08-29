@@ -1,23 +1,16 @@
 ## I create independent tools for developers
 
-Hear a bit about my background and why I'm on this journey:
+Learn about my work and Open Source projects on the blog:
 
-* [Video: Hear my OpenFaaS story over 60 months from this Gophercon keynote](https://www.youtube.com/watch?v=QzwBmHkP-rQ)
-* [Podcast: Independent Open Source, with Alex Ellis - Kubernetes Podcast by Google](https://kubernetespodcast.com/episode/116-independent-open-source/)
+* [Read my blog](https://blog.alexellis.io/)
 
-## Follow my journey and support my Open Source work
-
-As a GitHub Sponsor, you'll hear from me every week by email - covering my journey building independent software and open source projects. I share about new features, updates, events, tutorials and often share what I've learned from reading and executing every day.
+Are we on the same wavelength? Get bragging rights by sponsoring me on GitHub.
 
 * ⭐️ [Sponsor me on GitHub](https://github.com/sponsors/alexellis)
 
-## My books
-
-[I've been self-publishing books for a year](https://blog.alexellis.io/one-year-of-self-publishing/).
-
 ### Fast track your Go journey
 
-My best-selling book!
+My best-selling book on Go - used for the majority of my commercial work and open source projects.
 
 <a href="https://gumroad.com/l/everyday-golang">
 <img src="https://pbs.twimg.com/media/E4fRNrCWEAUR9e7?format=jpg&name=4096x4096" width="40%"></a>
@@ -44,4 +37,4 @@ Get the eBook on its own, or upgrade to the video workshop for my expert overvie
 ## Need to contact me?
 
 * 📫 [Need to email me?](mailto:alex@openfaas.com)
-* 💬 [Want to book a 1:1 with me?](https://calendly.com/alexellis)
+* 💬 [Want to talk in-person instead?](https://calendly.com/alexellis)
