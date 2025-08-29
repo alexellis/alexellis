@@ -10,7 +10,6 @@ Hear a bit about my background and why I'm on this journey:
 As a GitHub Sponsor, you'll hear from me every week by email - covering my journey building independent software and open source projects. I share about new features, updates, events, tutorials and often share what I've learned from reading and executing every day.
 
 * ⭐️ [Sponsor me on GitHub](https://github.com/sponsors/alexellis)
-* 🤓 [Send me a book for inspiration from my Amazon wishlist](https://www.amazon.co.uk/hz/wishlist/ls/3N6F3YMWH6J7Q?ref_=wl_share)
 
 ## My books
 
