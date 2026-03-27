@@ -24,4 +24,5 @@ My focus is: developer experience, portable software - for low friction, high co
 
 ### Contact
 
-- [Blog](https://blog.alexellis.io/) / 📫 [Email](mailto:alex@openfaas.com)  / 💬 [Book a call](https://calendly.com/alexellis)
+- [Blog](https://blog.alexellis.io/) / 📫 [Email](mailto:alex@openfaas.com)
+- 
