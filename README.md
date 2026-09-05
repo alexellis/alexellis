@@ -21,9 +21,11 @@ My focus is: developer experience, portable software - for low friction, high co
 
 For 2-4 DGX Sparks, completely switchless
 
-- [glm-5.3-flash-4x-dgx-spark-switchless](https://github.com/alexellis/glm-5.3-flash-4x-dgx-spark-switchless)
-- [glm-5.3-flash-2x-dgx-spark-switchless](https://github.com/alexellis/glm-5.3-flash-2x-dgx-spark-switchless)
-- [deepseek-v4-flash-0731-2x-dgx-spark](https://github.com/alexellis/deepseek-v4-flash-0731-2x-dgx-spark)
+- [GLM-5.3 Flash TP4](https://github.com/alexellis/glm-5.3-flash-4x-dgx-spark-switchless)
+- [GLM-5.3 Flash TP2](https://github.com/alexellis/glm-5.3-flash-2x-dgx-spark-switchless)
+- [DeepSeek V4 Flash 0731 TP2](https://github.com/alexellis/deepseek-v4-flash-0731-2x-dgx-spark)
+
+Get a true, and clean benchmark for agentic coding: [rigmark](https://github.com/alexellis/rigmark)
 
 ### My e-Books
 
