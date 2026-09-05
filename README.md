@@ -17,6 +17,14 @@ My focus is: developer experience, portable software - for low friction, high co
 - **[arkade](https://github.com/alexellis/arkade)** — install CLIs and Kubernetes tools  
 - **[k3sup](https://github.com/alexellis/k3sup)** — bootstrap K3s clusters over SSH
 
+### Switchless DGX Spark serving recipes
+
+For 2-4 DGX Sparks, completely switchless
+
+- [glm-5.3-flash-4x-dgx-spark-switchless](https://github.com/alexellis/glm-5.3-flash-4x-dgx-spark-switchless)
+- [glm-5.3-flash-2x-dgx-spark-switchless](https://github.com/alexellis/glm-5.3-flash-2x-dgx-spark-switchless)
+- [deepseek-v4-flash-0731-2x-dgx-spark](https://github.com/alexellis/deepseek-v4-flash-0731-2x-dgx-spark)
+
 ### My e-Books
 
 - [Everyday Golang](https://gumroad.com/l/everyday-golang) - what I've learned building products and OSS tools since 2014 in Go
