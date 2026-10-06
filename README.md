@@ -18,7 +18,7 @@ I do all my work through superterm, and haven't opened VS Code all year.
 
 ### inlets
 
-**[inlets](https://inlets.dev)** - privately or publicly tunnel HTTPS and TCP services, on your own terms. Great for preview endpoints for AI agents.
+**[inlets](https://inlets.dev)** - tunnel HTTPS and TCP endpoints privately or publicly, on your own terms. Great for previewing what your AI agents build.
 
 ### Local AI / DGX Sparks
 
