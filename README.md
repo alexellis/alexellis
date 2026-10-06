@@ -16,9 +16,9 @@ I focus my time on developer-friendly infrastructure - low friction, high contro
 
 ### inlets
 
-**[inlets](https://inlets.dev)** - self-hosted tunnels. Private access from anywhere.
+**[inlets](https://inlets.dev)** - share and collaborate on your work with private HTTPS/TCP tunnels.
 
-### Sparks
+### Local AI / DGX Sparks
 
 Switchless serving recipes for 2-4 DGX Sparks, and a benchmark to keep them honest.
 
