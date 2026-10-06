@@ -1,6 +1,6 @@
 ## I build independent tools for developers
 
-I created **[OpenFaaS](https://www.openfaas.com/)** in 2016. I still care about the same things: low friction, high control, and autonomy.
+I created **[OpenFaaS](https://www.openfaas.com/)** in 2016: portable serverless functions for Kubernetes. I still care about the same things: low friction, high control, and autonomy.
 
 ### superterm
 
