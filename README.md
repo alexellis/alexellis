@@ -6,7 +6,9 @@ I focus my time on developer-friendly infrastructure - low friction, high contro
 
 ### superterm
 
-**[superterm](https://superterm.dev)** - run, watch, and talk to your coding agents, from your desk or your phone. Built on tmux - which you already use.
+**[superterm](https://superterm.dev)** - a terminal you can live in, and talk to. Every agent on one screen, from your desk or your phone. Built on tmux - which you already use.
+
+I do all my work through superterm, and haven't opened VS Code all year.
 
 ### SlicerVM
 
