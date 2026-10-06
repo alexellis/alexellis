@@ -18,7 +18,7 @@ I do all my work through superterm, and haven't opened VS Code all year.
 
 ### inlets
 
-**[inlets](https://inlets.dev)** - share and collaborate on your work with private HTTPS/TCP tunnels.
+**[inlets](https://inlets.dev)** - privately or publicly tunnel HTTPS and TCP services, on your own terms. Great for preview endpoints for AI agents.
 
 ### Local AI / DGX Sparks
 
