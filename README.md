@@ -1,4 +1,4 @@
-## I build independent tools for developers
+## I build tools you run on your own machine
 
 I created **[OpenFaaS](https://www.openfaas.com/)** in 2016 - portable serverless functions for Kubernetes.
 
