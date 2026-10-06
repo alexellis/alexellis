@@ -12,6 +12,8 @@ I focus my time on developer-friendly infrastructure - low friction, high contro
 
 **[SlicerVM](https://slicervm.com/)** - real Linux, in milliseconds. Full VMs your agent can launch, use, and throw away, on your Mac, your servers, or your cloud.
 
+> "Firecracker MicroVMs for the regular person … It slotted in and replaced my proxmox vm orchestrator." - [on Hacker News](https://news.ycombinator.com/item?id=49914558)
+
 ### inlets
 
 **[inlets](https://inlets.dev)** - self-hosted tunnels. Private access from anywhere.
