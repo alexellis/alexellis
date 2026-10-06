@@ -2,7 +2,7 @@
 
 I created **[OpenFaaS](https://www.openfaas.com/)** in 2016 - portable serverless functions for Kubernetes.
 
-I focus my time on developer-friendly infrastructure - low friction, high control, and autonomy. Self-hosted, not SaaS.
+My focus is software you can self-host - low friction, high control, and autonomy.
 
 ### superterm
 
