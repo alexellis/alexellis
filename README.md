@@ -1,8 +1,8 @@
 ## I build tools you run on your own machine
 
-I created **[OpenFaaS](https://www.openfaas.com/)** in 2016 - portable serverless functions for Kubernetes.
+In 2016, I created **[OpenFaaS](https://www.openfaas.com/)** - portable serverless functions for Kubernetes.
 
-My focus is software you can self-host - low friction, high control, and autonomy.
+My mission is to create software that you can self-host - low friction, high control, and autonomy.
 
 ### superterm
 
