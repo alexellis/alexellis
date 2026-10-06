@@ -1,37 +1,26 @@
 ## I build independent tools for developers
 
-I created **[OpenFaaS](https://www.openfaas.com/)** in 2016 - portable serverless functions for Kubernetes.
+I created **[OpenFaaS](https://www.openfaas.com/)** in 2016. I still care about the same things: low friction, high control, and autonomy.
 
-My focus is: developer experience, portable software - for low friction, high control and autonomy.
+### superterm
 
-### SlicerVM - Real Linux, in milliseconds on Linux and macOS
+**[superterm](https://superterm.dev)**: run, watch, and talk to your coding agents, from your desk or your phone. Built on the tmux you already use.
 
-**[SlicerVM](https://slicervm.com/)** is a local-first platform for homelabs, fast K3s clusters, and API-driven Linux sandboxes for agents and automation.
+### SlicerVM
 
-### Inlets - private access from anywhere
+**[SlicerVM](https://slicervm.com/)**: real Linux in milliseconds, on Linux and macOS. Homelabs, fast K3s clusters, and API-driven sandboxes for agents.
 
-**[inlets](https://inlets.dev)** — self-hosted TCP/HTTP tunnels
+### inlets
 
-### Popular open source projects [supported by GitHub Sponsors](https://github.com/sponsors/alexellis)
+**[inlets](https://inlets.dev)**: self-hosted tunnels. Private access from anywhere.
 
-- **[arkade](https://github.com/alexellis/arkade)** — install CLIs and Kubernetes tools  
-- **[k3sup](https://github.com/alexellis/k3sup)** — bootstrap K3s clusters over SSH
+### Sparks
 
-### Switchless DGX Spark serving recipes
-
-For 2-4 DGX Sparks, completely switchless
+Switchless serving recipes for 2-4 DGX Sparks, and a benchmark to keep them honest.
 
 - [GLM-5.3 Flash TP4](https://github.com/alexellis/glm-5.3-flash-4x-dgx-spark-switchless)
 - [GLM-5.3 Flash TP2](https://github.com/alexellis/glm-5.3-flash-2x-dgx-spark-switchless)
 - [DeepSeek V4 Flash 0731 TP2](https://github.com/alexellis/deepseek-v4-flash-0731-2x-dgx-spark)
+- [RigMark](https://github.com/alexellis/rigmark): a true, clean benchmark for agentic coding
 
-Get a true, and clean benchmark for agentic coding: [rigmark](https://github.com/alexellis/rigmark)
-
-### My e-Books
-
-- [Everyday Golang](https://gumroad.com/l/everyday-golang) - what I've learned building products and OSS tools since 2014 in Go
-- [Serverless for Everyone Else](https://gumroad.com/l/serverless-for-everyone-else) - write and host OpenFaaS functions with Node.js
-
-### Contact
-
-- [Blog](https://blog.alexellis.io/) / 📫 [Email](mailto:alex@openfaas.com)
+[Blog](https://blog.alexellis.io/) · [Email](mailto:alex@openfaas.com) · [Sponsor](https://github.com/sponsors/alexellis)
