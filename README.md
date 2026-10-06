@@ -12,7 +12,7 @@ I focus my time on developer-friendly infrastructure - low friction, high contro
 
 **[SlicerVM](https://slicervm.com/)** - real Linux, in milliseconds. Full VMs your agent can launch, use, and throw away, on your Mac, your servers, or your cloud.
 
-> "Firecracker MicroVMs for the regular person … It slotted in and replaced my proxmox vm orchestrator." - [on Hacker News](https://news.ycombinator.com/item?id=49914558)
+> "Firecracker MicroVMs for the regular person … Agents, local dev CI, etc. It slotted in and replaced my Proxmox VM orchestrator, and now I have secure and fast VMs on my laptop wherever I go." - [on Hacker News](https://news.ycombinator.com/item?id=49914558)
 
 ### inlets
 
