@@ -28,4 +28,4 @@ Switchless serving recipes for 2-4 DGX Sparks, and a benchmark to keep them hone
 - GLM-5.3 Flash [TP4](https://github.com/alexellis/glm-5.3-flash-4x-dgx-spark-switchless) / [TP2](https://github.com/alexellis/glm-5.3-flash-2x-dgx-spark-switchless)
 - [DeepSeek V4 Flash 0731 TP2](https://github.com/alexellis/deepseek-v4-flash-0731-2x-dgx-spark)
 
-[Blog](https://blog.alexellis.io/) · [Email](mailto:alex@openfaas.com) · [Sponsor](https://github.com/sponsors/alexellis)
+[Blog](https://blog.alexellis.io/) · [Email](mailto:alex@openfaas.com)
