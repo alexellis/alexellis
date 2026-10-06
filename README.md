@@ -24,8 +24,7 @@ I do all my work through superterm, and haven't opened VS Code all year.
 
 Switchless serving recipes for 2-4 DGX Sparks, and a benchmark to keep them honest.
 
-- [GLM-5.3 Flash TP4](https://github.com/alexellis/glm-5.3-flash-4x-dgx-spark-switchless)
-- [GLM-5.3 Flash TP2](https://github.com/alexellis/glm-5.3-flash-2x-dgx-spark-switchless)
+- GLM-5.3 Flash [TP4](https://github.com/alexellis/glm-5.3-flash-4x-dgx-spark-switchless) / [TP2](https://github.com/alexellis/glm-5.3-flash-2x-dgx-spark-switchless)
 - [DeepSeek V4 Flash 0731 TP2](https://github.com/alexellis/deepseek-v4-flash-0731-2x-dgx-spark)
 - [RigMark](https://github.com/alexellis/rigmark) - a true, clean benchmark for agentic coding
 
