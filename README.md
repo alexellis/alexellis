@@ -12,7 +12,7 @@ I do all my work through superterm, and haven't opened VS Code all year.
 
 ### SlicerVM
 
-**[SlicerVM](https://slicervm.com/)** - real Linux, in milliseconds. Full VMs your agent can launch, use, and throw away, on your Mac, your servers, or your cloud.
+**[SlicerVM](https://slicervm.com/)** - real Linux, in milliseconds. Full VMs your agent can launch, use, and throw away. Run on your Mac, your servers, or the cloud.
 
 > "Firecracker MicroVMs for the regular person … Agents, local dev CI, etc. It slotted in and replaced my Proxmox VM orchestrator, and now I have secure and fast VMs on my laptop wherever I go." - [on Hacker News](https://news.ycombinator.com/item?id=49914558)
 
