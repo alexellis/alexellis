@@ -8,7 +8,7 @@ I created **[OpenFaaS](https://www.openfaas.com/)** in 2016: portable serverless
 
 ### SlicerVM
 
-**[SlicerVM](https://slicervm.com/)**: real Linux in milliseconds, on Linux and macOS. Homelabs, fast K3s clusters, and API-driven sandboxes for agents.
+**[SlicerVM](https://slicervm.com/)**: real Linux, in milliseconds. Full VMs your agent can launch, use, and throw away, on your Mac, your servers, or your cloud.
 
 ### inlets
 
